@@ -23,8 +23,8 @@
                 <tr>
                  <td><br><input type="submit" value="Bayar Sekarang"></td>
                 </tr>
+            </form>
 </table>
-</form>
 </body>
 </html>
 
